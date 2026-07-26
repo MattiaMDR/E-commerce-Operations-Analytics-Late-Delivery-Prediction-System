@@ -1,0 +1,13 @@
+﻿kpi,value
+Unique Orders,65752.0
+Order Lines,180519.0
+Revenue,33054402.380216613
+Profit,3966902.974050357
+Profit Margin,0.1200113355074478
+Late Delivery Rate,0.5482913155955883
+On-Time Delivery Rate,0.4517086844044117
+Average Shipping Days,3.4976539865609713
+Average Scheduled Shipping Days,2.931846509231715
+Average Delay Days,0.5658074773292562
+Loss-Making Orders,24649.0
+Profit from Late Deliveries,2140051.6816967707
