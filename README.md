@@ -208,13 +208,8 @@ Dashboard Preview
 
 Add the final dashboard image inside the images/ or dashboard/ folder and update the path below if necessary.
 
-![Operations Decision Dashboard](images/operations_decision_dashboard.png)
 
 After uploading the image, remove the code block markers around the line above so GitHub displays the image directly.
-
-You can also use:
-
-![Operations Decision Dashboard](dashboard/dashboard_preview.png)
 
 depending on where you save the screenshot.
 
@@ -422,7 +417,7 @@ The main objective was not only to build a machine learning model, but to connec
 
 Author
 
-Mattia De Rosa
+Mattia 
 
 E-commerce Data Analyst focused on:
 
